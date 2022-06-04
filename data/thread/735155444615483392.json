@@ -1,0 +1,66 @@
+{
+  "chats": [
+    {
+      "booed": "0",
+      "boos_count": "0",
+      "liked": "0",
+      "urls": [],
+      "user": {
+        "icon": "https://assets.nakamap.com/img/user/64282fe9dbf760685e25e29a54ffc374e426ccf1_72.png",
+        "cover": "https://lobi.co/img/cover/none_cover_640.png",
+        "uid": "7f49c653c4a6e36d52f08aaec4eab225ae80c7a7",
+        "premium": "0",
+        "name": "びぎしょー",
+        "default": "1",
+        "description": "微〜無課金の効率厨"
+      },
+      "id": "735155980500877312",
+      "is_me_bookmarked": "0",
+      "assets_expired": "0",
+      "bookmarks_count": "0",
+      "likes_count": "0",
+      "created_date": "1595345244",
+      "is_group_bookmarked": "0",
+      "image": null,
+      "message": "ひょっとしたら他のキャラも進化させたときにいい意味だったり悪い意味だったりの変なバグがあるかもしれませんね。\n\n何かありましたら是非お聞かせください！",
+      "voice": null,
+      "max_edit_limit_date": null,
+      "assets": [],
+      "reply_to": "735155444615483392",
+      "live": null,
+      "type": "normal",
+      "edited_date": null
+    }
+  ],
+  "to": {
+    "booed": "0",
+    "boos_count": "0",
+    "liked": "0",
+    "urls": [],
+    "user": {
+      "icon": "https://assets.nakamap.com/img/user/64282fe9dbf760685e25e29a54ffc374e426ccf1_72.png",
+      "cover": "https://lobi.co/img/cover/none_cover_640.png",
+      "uid": "7f49c653c4a6e36d52f08aaec4eab225ae80c7a7",
+      "premium": "0",
+      "name": "びぎしょー",
+      "default": "1",
+      "description": "微〜無課金の効率厨"
+    },
+    "id": "735155444615483392",
+    "is_me_bookmarked": "0",
+    "assets_expired": "0",
+    "bookmarks_count": "0",
+    "likes_count": "5",
+    "created_date": "1595345116",
+    "is_group_bookmarked": "1",
+    "image": null,
+    "message": "質問があったので進化の解説をします。\n\nー進化についてー\n現在以下の4キャラが進化できます。\nスライミー\nモカ\nテディ\nダークウィング\n\n私も手を全然手をつけてないのでやってみました。\nスライミーlv420を進化させてみたところ、以下の変化が得られました。\n・攻撃力が2倍に上がる。\n実用的メリットはこれだけです。\n進化前攻撃力:123377943\n進化後攻撃力:246755886\nでした。他のモンスターは未確認です。\n・見た目が変わる\nブサイクになりました。\n見た目を戻す機能はないです。\n・モンスターの説明文が変わる\nほんのちょっとだけです。\n・バグがある\nスペシャルパワー攻撃がモーションだけで発動していませんでした。つまり、手数が減りました。\n\n逆に変化が無かった点を述べます。\n・攻撃範囲\n・攻撃速度\n確認しましたが変わりありませんでした。残念。\n\nー進化ジェムの取得についてー\n進化ジェムは、チャレンジモードのマスターからの試練のみで入手可能です。こちらは難易度普通のみ実装してる状態なので、これ以外の入手はないです。\n\n時間効率を重視したいなら、どのキャラをどこに配置してもクリアできるくらいのレベルにして、適当にやってクリアするのが一番良いと思います。\n\nスタミナ効率を重視するなら、マスターからの試練で発生する広告や商人の特殊効果を全てジェム増加にする方法があります。\nただ、その場合は配置モンスターのレベルを極力上げず、コイン取得増加を序盤に数個取りコインを稼ぐ必要があります。\nそれは、同じ特殊効果は重ねるたびに要求額が上がっていくためです。進化ジェム増加だけ上げていると、最終wave付近では一回で何千コインと取られます。しかしそこそこ厳選しても1週で進化ジェム6000個程度だったかと思います。まずいです。\n\nいずれにせよ、手間に対してのリターンが少ないです。せめて、イビルサマナーみたいにオートモードが欲しいところですね。今後の追加に期待して今は進化コンテンツは放置が良いかと思います。",
+    "voice": null,
+    "max_edit_limit_date": null,
+    "assets": [],
+    "reply_to": null,
+    "live": null,
+    "type": "normal",
+    "edited_date": null
+  }
+}

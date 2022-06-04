@@ -1,0 +1,34 @@
+{
+  "chats": [],
+  "to": {
+    "booed": "0",
+    "boos_count": "0",
+    "liked": "0",
+    "urls": [],
+    "user": {
+      "icon": "https://assets.nakamap.com/img/user/64282fe9dbf760685e25e29a54ffc374e426ccf1_72.png",
+      "cover": "https://lobi.co/img/cover/none_cover_640.png",
+      "uid": "7f49c653c4a6e36d52f08aaec4eab225ae80c7a7",
+      "premium": "0",
+      "name": "びぎしょー",
+      "default": "1",
+      "description": "微〜無課金の効率厨"
+    },
+    "id": "734399617113792512",
+    "is_me_bookmarked": "0",
+    "assets_expired": "0",
+    "bookmarks_count": "0",
+    "likes_count": "3",
+    "created_date": "1595164913",
+    "is_group_bookmarked": "1",
+    "image": null,
+    "message": "確認したところ、重複ボーナスに誤りがありました。\n\n・デボンは攻撃速度ボーナス\n・スラッギーはスペシャル効果ボーナス\nが、それぞれ1ランク毎に+5%ずつ増加でした。",
+    "voice": null,
+    "max_edit_limit_date": null,
+    "assets": [],
+    "reply_to": "733975262173171712",
+    "live": null,
+    "type": "normal",
+    "edited_date": null
+  }
+}

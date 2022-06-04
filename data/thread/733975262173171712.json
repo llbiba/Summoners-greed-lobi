@@ -1,0 +1,66 @@
+{
+  "chats": [
+    {
+      "booed": "0",
+      "boos_count": "0",
+      "liked": "0",
+      "urls": [],
+      "user": {
+        "icon": "https://assets.nakamap.com/img/user/64282fe9dbf760685e25e29a54ffc374e426ccf1_72.png",
+        "cover": "https://lobi.co/img/cover/none_cover_640.png",
+        "uid": "7f49c653c4a6e36d52f08aaec4eab225ae80c7a7",
+        "premium": "0",
+        "name": "びぎしょー",
+        "default": "1",
+        "description": "微〜無課金の効率厨"
+      },
+      "id": "734399617113792512",
+      "is_me_bookmarked": "0",
+      "assets_expired": "0",
+      "bookmarks_count": "0",
+      "likes_count": "3",
+      "created_date": "1595164913",
+      "is_group_bookmarked": "1",
+      "image": null,
+      "message": "確認したところ、重複ボーナスに誤りがありました。\n\n・デボンは攻撃速度ボーナス\n・スラッギーはスペシャル効果ボーナス\nが、それぞれ1ランク毎に+5%ずつ増加でした。",
+      "voice": null,
+      "max_edit_limit_date": null,
+      "assets": [],
+      "reply_to": "733975262173171712",
+      "live": null,
+      "type": "normal",
+      "edited_date": null
+    }
+  ],
+  "to": {
+    "booed": "0",
+    "boos_count": "0",
+    "liked": "0",
+    "urls": [],
+    "user": {
+      "icon": "https://assets.nakamap.com/img/user/64282fe9dbf760685e25e29a54ffc374e426ccf1_72.png",
+      "cover": "https://lobi.co/img/cover/none_cover_640.png",
+      "uid": "7f49c653c4a6e36d52f08aaec4eab225ae80c7a7",
+      "premium": "0",
+      "name": "びぎしょー",
+      "default": "1",
+      "description": "微〜無課金の効率厨"
+    },
+    "id": "733975262173171712",
+    "is_me_bookmarked": "0",
+    "assets_expired": "0",
+    "bookmarks_count": "2",
+    "likes_count": "10",
+    "created_date": "1595063739",
+    "is_group_bookmarked": "1",
+    "image": null,
+    "message": "ちょうどいいのでガチャの解説をまとめて書いておきます。\n\n・緑石10ガチャのみ引くべきです。緑石10ガチャだけでもスペシャル以外は全て出ますし、同じコを引くことが大事だからです。\n\n・緑石30個ガチャ400回で出たレジェンドは6回でした(確率1.5%)。引く価値は無いでしょう。コインが余るようになったらまた集計してみようと思います。\n\n・ジェム60ガチャは100回中レジェンド5回でした(5%)。課金石的な位置付けですが、出率かなり渋いので無駄でしょう。運命力の高い方はひいてどうぞ。試行回数が少なくズレてる可能性が高いです。こちらもそのうち回数ひいて正確に集計したいと思います。\n\nー重複についてー\nモンスターガチャで持ってるコが出ると、一定数毎にランクアップし攻撃力ボーナスが付きます。上昇値がものすごく高いので、レア度よりも重要です。\n全部で9ランク\n銅星1(初獲得\n銅2:+50%\n銅3+100%\n銀1+250%\n銀2+400%\n銀3+650%\n金1+1000%\n金2+1600%\n金3(最大 +2400%\n※各ランクの数だけ上げるのに必要です。例:銀3→金1(7ランク目)ならさらに7体引けばランクアップ。\n※通常攻撃の無いデボン、マイティ、スピーディ、スラッギーは＋10％ずつ上がっていきます。\n\n最大の金3の状態でさらに獲得した場合も無駄にはならず、レア度によって沢山コインが貰えます。\n換金率\nコモンー1000コイン\nレアー2000\nエピックー3000\nレジェンドー4000？\n\n\nですので、緑石10ガチャのみ引けばOKです。\n修正有りましたら是非ご指摘下さいませ。",
+    "voice": null,
+    "max_edit_limit_date": null,
+    "assets": [],
+    "reply_to": null,
+    "live": null,
+    "type": "normal",
+    "edited_date": null
+  }
+}

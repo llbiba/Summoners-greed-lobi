@@ -1,0 +1,104 @@
+{
+  "chats": [
+    {
+      "booed": "0",
+      "boos_count": "0",
+      "liked": "0",
+      "urls": [],
+      "user": {
+        "icon": "https://lobi.co/img/icon/none_user_72.gif",
+        "cover": "https://lobi.co/img/cover/none_cover_640.png",
+        "uid": "4de1216cc1aeb011f1d33e87baed49c8ce7ece32",
+        "premium": "0",
+        "name": "Lobi8183019",
+        "default": "1",
+        "description": ""
+      },
+      "id": "769568117931204608",
+      "is_me_bookmarked": "0",
+      "assets_expired": "0",
+      "bookmarks_count": "0",
+      "likes_count": "0",
+      "created_date": "1603549737",
+      "is_group_bookmarked": "0",
+      "image": "https://assets.nakamap.com/img/groupchat.assets/2092bf9100871693230c8b487628bf672b7472b9_100.jpg",
+      "message": "エピックジェム採掘がでていないのですが、何故か分かる方返信お願いします。",
+      "voice": null,
+      "max_edit_limit_date": null,
+      "assets": [
+        {
+          "url": "https://assets.nakamap.com/img/groupchat.assets/2092bf9100871693230c8b487628bf672b7472b9_100.jpg",
+          "type": "image",
+          "id": "2092bf9100871693230c8b487628bf672b7472b9",
+          "raw_url": "https://assets.nakamap.com/img/groupchat.assets/2092bf9100871693230c8b487628bf672b7472b9_raw.jpg"
+        }
+      ],
+      "reply_to": "736141491734335488",
+      "live": null,
+      "type": "normal",
+      "edited_date": null
+    },
+    {
+      "booed": "0",
+      "boos_count": "0",
+      "liked": "0",
+      "urls": [],
+      "user": {
+        "icon": "https://assets.nakamap.com/img/user/64282fe9dbf760685e25e29a54ffc374e426ccf1_72.png",
+        "cover": "https://lobi.co/img/cover/none_cover_640.png",
+        "uid": "7f49c653c4a6e36d52f08aaec4eab225ae80c7a7",
+        "premium": "0",
+        "name": "びぎしょー",
+        "default": "1",
+        "description": "微〜無課金の効率厨"
+      },
+      "id": "736141972246384640",
+      "is_me_bookmarked": "0",
+      "assets_expired": "0",
+      "bookmarks_count": "0",
+      "likes_count": "0",
+      "created_date": "1595580323",
+      "is_group_bookmarked": "0",
+      "image": null,
+      "message": "クリアレベルは私が2週目でクリアした時の目安です。敗北再チャレンジ攻撃ボーナス+50%込み。モンスター攻撃力2倍や攻撃力ブーストの解放具合、モンスターの重複ボーナスで全然違いますのでご注意。\n\n使用したコたち(左から\n前列:インフェルノス、マイティ、スパイキー\n中列:スパーキー、スピーディ、フューリー\n後列:lv1の足止め能力持ち適当",
+      "voice": null,
+      "max_edit_limit_date": null,
+      "assets": [],
+      "reply_to": "736141491734335488",
+      "live": null,
+      "type": "normal",
+      "edited_date": null
+    }
+  ],
+  "to": {
+    "booed": "0",
+    "boos_count": "0",
+    "liked": "0",
+    "urls": [],
+    "user": {
+      "icon": "https://assets.nakamap.com/img/user/64282fe9dbf760685e25e29a54ffc374e426ccf1_72.png",
+      "cover": "https://lobi.co/img/cover/none_cover_640.png",
+      "uid": "7f49c653c4a6e36d52f08aaec4eab225ae80c7a7",
+      "premium": "0",
+      "name": "びぎしょー",
+      "default": "1",
+      "description": "微〜無課金の効率厨"
+    },
+    "id": "736141491734335488",
+    "is_me_bookmarked": "0",
+    "assets_expired": "0",
+    "bookmarks_count": "4",
+    "likes_count": "7",
+    "created_date": "1595580208",
+    "is_group_bookmarked": "1",
+    "image": null,
+    "message": "始めたての方向け情報\nークラシックモードー\n・キングーノーマル\nwave数60\nクリアレベル40\n最初のステージ。最初はガンガン動画広告を見て石やコインを稼ぐと良いです。ボスの数も少ないので、足止め系モンスターや極度凍結をうまく使うのが早い段階でクリアするコツです。\nクリア直後も放置金策にちょうど良く、お世話になります。\n\n・キングーハード\n条件:キングノーマルクリア\nwave数60\nクリアレベル110\nノーマルとほぼ構成は同じですが、少し敵が多くHPも高いです。クリア報酬もなく、稼ぎも悪いので、後回しで良いでしょう。\n\n・憤怒の族長ノーマル\n条件:キングノーマルクリア\nwave数60\nクリアレベル90\nwave10毎以外にも緑石を落とす大型の敵が出ますがキングと大差ないので楽なキングノーマルで稼ぎましょう。クリアでメインの稼ぎ場になるジョイントリベンジが解放されますので、ギリクリアできないくらいの時は根性で倒しましょう。\n\n・憤怒の族長ーハード\n条件:憤怒の族長ノーマルクリア\nwave数60\nクリアレベル150\nこちらのハードもキングと同様で敵の数とHPが増えてます。クリア報酬もなく、ジョイントリベンジノーマルの方が稼ぎも旨いので後回しでも良いです。\n\n・ジョイントリベンジーノーマル\n条件:憤怒の族長ノーマルクリア\nwave数20\nクリアレベル160\n毎wave緑石を落とす大型の敵が複数出ます。1wave目だけクリアでも緑石6個出て、大幅に戦力強化できます。クリア時の特別報酬として画面全体攻撃のできるスライムキングが獲得でき、今後はマイティとスピーディで挟んで主力として使う戦法がメインになります。クリア後もここが金策ステージになります。ちなみに、スライムキングはここをクリアしないとガチャで出現しないようです。\n\n・ジョイントリベンジーハード\n条件:ジョイントリベンジノーマルクリア\nwave数20\nクリアレベル350(マイティ、スピーディ、スライムキングのみ育成\n敵編成はノーマルと完全に同じで、ドロップも完全に一致。ただ、1〜2割くらいノーマルよりも召喚石のドロップが多いような気がします。その程度の差なのでのんびりクリアで良いでしょう。クリアするとデスバイトが貰えますが、出番はあまりないです。",
+    "voice": null,
+    "max_edit_limit_date": null,
+    "assets": [],
+    "reply_to": null,
+    "live": null,
+    "type": "normal",
+    "edited_date": null
+  }
+}
